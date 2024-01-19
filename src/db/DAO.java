@@ -5,8 +5,8 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 
 public class DAO {
-	String username="root";
-	String password="root@123";
+	String username="database_username";
+	String password="database_password";
 	 static final String DB_URL = "jdbc:mysql://localhost/huffman";
 	
 	public Connection getConnection()

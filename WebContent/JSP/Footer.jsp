@@ -9,7 +9,7 @@
 
 	<div class="container">
 	  
- <h3>Y.B.Patil Poly Akurdi </h3>Design by GPPY.	   	
+ <h3><name of organization> </h3>Design by <name>.	   	
 	 
 	</div>
 </div>

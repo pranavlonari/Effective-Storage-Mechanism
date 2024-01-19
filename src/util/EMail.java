@@ -15,8 +15,8 @@ import bean.RegistrationBean;
 
 public class EMail {
 
-	String from= "smilingbrokenheart@gmail.com";
-	String pass = "jvvp cgym evyj pqf";
+	String from= "email_id";
+	String pass = "email_pass";
 	public boolean sendMail(RegistrationBean rb) {
 		// TODO Auto-generated method stub
 		
