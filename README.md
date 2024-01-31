@@ -57,13 +57,60 @@ To use the Huffman Algorithm File Compression tool, follow these steps:
 
 Follow these instructions to get a copy of the project up and running on your local machine.
 
-### Prerequisites:
+## Prerequisites:
 
-- [List any prerequisites here, such as programming languages, libraries, or dependencies.]
+Before you begin, make sure you have the following prerequisites installed:
 
-### Installation:
+- Programming Languages: Java
+- Libraries/Dependencies: Apache Tomcat 1.6, jdk1.6
+- Database Servers: Oracle or MySQL
+- Client: Microsoft Edge
+- Tools and Environment: Apache Tomcat 1.6, jdk1.6
+- User Interface: HTML5, JSP 
+- Code Behind: Java, JDBC, MySQL 5.5, Servlet
 
-1. [Provide step-by-step installation instructions.]
+## Installation:
+
+### System Specification:
+
+Make sure your system meets the following specifications:
+
+- **Operating System Server:** Windows XP or later
+- **Database Server:** Oracle or MySQL
+- **Client:** Microsoft Edge
+- **Tools and Environment:** Apache Tomcat 1.6, jdk1.6
+- **User Interface:** HTML5, JSP 
+- **Code Behind:** Java, JDBC, MySQL 5.5, Servlet
+
+Follow these steps to set up the project on your local machine:
+
+1. **Download and Install Apache Tomcat 1.6:**
+   - Visit the official Apache Tomcat website.
+   - Download the Apache Tomcat 1.6 installer.
+   - Follow the installation instructions provided on the website.
+
+2. **Install JDK 1.6:**
+   - Download and install JDK 1.6 from the official Oracle website.
+   - Set up the environment variables for Java.
+
+3. **Database Setup:**
+   - Install either Oracle or MySQL database server.
+   - Create the necessary databases and tables for the project.
+
+4. **Client Setup:**
+   - Ensure you have Microsoft Edge installed on the client machine.
+
+5. **Project Configuration:**
+   - Clone the project repository.
+   - Configure the project settings, including database connection details.
+
+6. **Deploy on Apache Tomcat:**
+   - Deploy the project on the Apache Tomcat server.
+
+7. **Access the Application:**
+   - Open Microsoft Edge.
+   - Navigate to the application using the provided URL.
+
 
 ## Contributing:
 
